@@ -8,20 +8,20 @@ Refer to the *Project Home* page
 
 =Usage=
 
-   *==Zoom==
+   *===Zoom===
 
-   *==Re-size==
+   *===Re-size===
 
-   *==Crop==
+   *===Crop===
 
-   *==Rotate==
+   *===Rotate===
 
-   *==Flip==
+   *===Flip===
 
-   *==Screen-shots==
+   *===Screen-shots===
 
-   *==Add Text to Images==
+   *===Add Text to Images===
 
-   *==Compress Images==
+   *===Compress Images===
 
-   *==Download New Images==
+   *===Download New Images===
